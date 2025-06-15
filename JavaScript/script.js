@@ -532,7 +532,7 @@ if (contactForm) {
 
     try {
       // First attempt: JSON submission
-      const response = await fetch("https://formsubmit.co/hello@zowigraphics.com", {
+      const response = await fetch("https://formsubmit.co/nathnaeldesta07@gmail.com", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
