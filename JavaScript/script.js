@@ -560,7 +560,7 @@ if (contactForm) {
       try {
         // Fallback: Traditional form submission
         const tempForm = document.createElement("form")
-        tempForm.action = "https://formsubmit.co/hello@zowigraphics.com"
+        tempForm.action = "https://formsubmit.co/nathnaeldesta07@gmail.com"
         tempForm.method = "POST"
         tempForm.style.display = "none"
 
