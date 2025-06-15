@@ -1,3 +1,4 @@
+
 // Function to check and initialize mobile elements based on screen size
 function initializeMobileElements() {
   const hamburgerMenu = document.querySelector(".hamburger")
