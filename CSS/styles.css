@@ -470,7 +470,7 @@ section {
   animation-play-state: running;
 
   /* Maintain aspect ratio and prevent distortion */
-  opacity: 0.5;
+  opacity: 0.25;
   width: 100%;
   max-width: 700px;
   height: auto;
